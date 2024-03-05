@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vishwajit Patil
 =======================================================================================================================================
 
-Frontend Developer
+WEB Developer
 ------------------
 
-Frontend developer with a keen focus on professional programming. Committed to becoming a more proficient developer through continuous learning.
+MERN STACK developer with a keen focus on professional programming. Committed to becoming a more proficient developer through continuous learning.
 
 * 🌍  I'm based in India
 * 🧠  I'm learning React
